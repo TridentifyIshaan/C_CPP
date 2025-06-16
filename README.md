@@ -1,49 +1,109 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30)
 <h1 align="left"> Hi there 👋 | <a href="https://github.com/TridentifyIshaan"> Revisit My GitHub Profile</a> </h1>
 
-## 💫 About The Repository:
-- 🌱 What is it about? &emsp; C++ with DSA
-- 💞 Tutor &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; <a href="https://www.youtube.com/@CodeHelp">CodeHelp by Babbar</a>
-- ♾️ Playlist link &emsp; &emsp; &nbsp; &nbsp; <a href="https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA">Complete C++ Placement DSA Course</a> 
-- 💻 Tech Stack Used &emsp; &nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+## 💫 About The Repository
 
-![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
+This repository contains a comprehensive collection of C, C++, and Operating Systems (OS) programs, organized by semester and topic. It is designed as a reference and practice resource for students learning programming fundamentals, data structures, algorithms, and OS concepts. Each folder contains well-documented code samples, notes, and project files to support hands-on learning and revision.
 
-## 🗂️ Index:
+- **Languages Covered:** C, C++
+- **Topics:** Programming basics, patterns, operators, loops, functions, arrays, searching, sorting, OS algorithms, and more.
+- **Intended Audience:** Students and learners preparing for university exams, coding interviews, or anyone looking to strengthen their programming skills.
 
-### 01 Basics
-<h4> 1. Hello World </h4>
-<h4> 2. Datatypes </h4>
-<h4> 3. Datatype Size </h4>
-<h4> 4. ASCII values </h4>
-<h4> 5. Unsigned Integer</h4>
-<h4> 6. Relational Operatations </h4>
-<h4> 7. User Input </h4>
-<h4> 8. Positive, Negative or Zero </h4>
-<h4> 9. Taking input in a single line for multiple variables</h4>
-<h4> 10. Which number is greater? </h4>
-<h4> 11. Lowercase & uppercase Letters or Numbers ? </h4>
-<h4> 12. Print n numbers </h4>
-<h4> 13. Sum of n numbers </h4>
-<h4> 14. Sum of even numbers </h4>
-<h4> 15. Fahrenheit to Celcius</h4>
-<h4> 16. Prime or Not? </h4>
+---
 
-### 02 Patterns
+## 📁 Repository Structure
 
-<h4> 17. n x n pattern of * </h4>
-<h4> 18. pattern like this <br> <br>
-    1 1 1 <br>
-    2 2 2 <br>
-    3 3 3
-</h4>
-<h4> 19. pattern like this <br> <br>
-    1 2 3 <br>
-    1 2 3 <br>
-    1 2 3
-</h4>
-<h4> 20. pattern like this <br> <br>
-    3 2 1 <br>
-    3 2 1 <br>
-    3 2 1 
-</h4>
+- **1st Sem C/**  
+  C programming assignments and practice problems for first semester, covering basics to advanced topics.
+
+- **3rd Sem CPP/**  
+  C++ programs organized by topic, including basics, patterns, operators, loops, functions, arrays, searching, sorting, and more.
+
+- **4th Sem OS/**  
+  Operating Systems algorithms and programs, such as Banker's Algorithm, FCFS, and other scheduling algorithms.
+
+- **.vscode/**  
+  Editor configuration files for Visual Studio Code.
+
+---
+
+## 🗂️ Index
+
+### 1st Sem C
+- 1.c ... 10A.c, 10B.c, ... : Individual C programs for various assignments and concepts.
+- Project File.docx / Project File.pdf: Project documentation.
+
+### 3rd Sem CPP
+
+#### 01 Basics
+- Hello World
+- Datatypes
+- Datatype Size
+- ASCII values
+- Unsigned Integer
+- Relational Operations
+- User Input
+- Positive, Negative or Zero
+- Taking input in a single line for multiple variables
+- Which number is greater?
+- Lowercase & Uppercase Letters or Numbers?
+- Print n numbers
+- Sum of n numbers
+- Sum of even numbers
+- Fahrenheit to Celsius
+- Prime or Not?
+
+#### 02 Patterns
+- Pattern printing programs
+
+#### 03 Binary Operators
+- Programs demonstrating binary operations
+
+#### 04 For Loop
+- Looping constructs and examples
+
+#### 05 Scopes of Variables
+- Variable scope and lifetime
+
+#### 06 Number System
+- Number system conversions and operations
+
+#### 07 Switch Case & Functions
+- Switch case usage and function examples
+
+#### 08 Arrays, Searching, Sorting
+- Array manipulation, searching, and sorting algorithms
+
+### 4th Sem OS
+- Banker's Algorithm
+- FCFS (First Come First Serve)
+- SJF Preemptive
+
+---
+
+## 🚀 How to Run the Code
+
+1. **Install [Visual Studio Code](https://code.visualstudio.com/)**
+2. **Recommended:** Install the "Code Runner" extension for easy code execution.
+3. **Open the folder in VS Code.**
+4. **To run a code file:**
+   - Open the file you want to run.
+   - Press `Ctrl + Alt + N` (if using Code Runner).
+   - Or use the integrated terminal to compile and run manually:
+     - For C: `gcc filename.c -o output && ./output`
+     - For C++: `g++ filename.cpp -o output && ./output`
+
+---
+
+## 📚 References
+
+- [CodeHelp by Babbar YouTube Channel](https://www.youtube.com/@CodeHelp)
+- [Complete C++ Placement DSA Course Playlist](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
+- [Amity University College Curriculum](https://www.youtube.com/@A-Acers)
+---
+
+## 📝 Notes
+
+- Each code file contains inline documentation and notes for better understanding.
+- The repository is won't get any further updates I feel.
+- Contributions and suggestions are welcome though!
